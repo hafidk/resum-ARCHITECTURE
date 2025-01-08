@@ -1,3 +1,5 @@
 # FFL Manresa
 
-[View the compiled PDF](./docs/main.pdf)
+![Previsualització](./docs/preview.png)
+
+[document PDF](./docs/main.pdf)
