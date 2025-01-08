@@ -8,6 +8,7 @@
 \usepackage[colorlinks=true, allcolors=blue]{hyperref}
 \usepackage[toc,page]{appendix}
 \usepackage[utf8]{inputenc}
+
 \bibliographystyle{stylename}
 \bibliography{bibfile}
 \usepackage{graphicx} %package to manage images
@@ -18,6 +19,9 @@
 \usepackage{listings}
 \usepackage{subfig}
 \usepackage{wrapfig}
+
+\newenvironment{ignora}{\color{grey}}{\ignorespacesafterend}
+
 \begin{document}
 
 
@@ -36,6 +40,9 @@ Competició orientada cap a gent d’entre 8 i 16 anys, on els ítems principals
 \hfill \break\hfill \break
 És una experiència força guiada on cada activitat i els sets ja tenen material didàctic preparat, en cada programa es desenvolupa un projecte innovador per resoldre un problema real relacionat amb la temàtica de la competició.
 
+\begin{color}{gray}
+\hfill \break\hfill \break
+\textit{}{No fem temàtica Explore}
 \section{Temàtica Explore}
 No competitiva, orientada als infants. Els equips expliquen i ensenyen el treball portat durant la temporada. Treballen en aquests tres àmbits:
 
@@ -69,7 +76,7 @@ Els equips han de demostrar els valors FFL, mostrar el seu pòster i la seva maq
  \hline
 \end{tabular}
 
-
+\end{color}
 \section{Temàtica Challenge}
 
 Competitiva, orientada als més grans. Dividida en 4 parts (\textbf{Innovació, Disseny, Valors i Joc} ), totes d'igual importància, cadascuna consta d’una presentació de 5 minuts.
