@@ -1,7 +1,6 @@
 # RESUM UX
 
 Resum dels principals punts de The Elements of User Experience: User-Centered Design for the Web de Jesse James Garrett
-![Previsualització](./docs/preview.png)
 
 [document PDF complert](./docs/main.pdf)
 
