@@ -1,9 +1,5 @@
-# RESUM UX
+# RESUM ARCHITECTURE FUNDAMENTALS
 
-Resum dels principals punts de The Elements of User Experience: User-Centered Design for the Web de Jesse James Garrett
+Resum dels principals punts de Fundamentals of Software Architecture: An Engineering Approach de Mark Richards i Neal Ford
 
-[document PDF complert](./docs/main.pdf)
-
-# Compilació
-
-El repo és obert, a cada nou push s'hauria d'autogenerar el pdf amb github actions i la previsualització
+[document PDF complert](./ch1.pdf)
